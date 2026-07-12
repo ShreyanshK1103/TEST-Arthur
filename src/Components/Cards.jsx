@@ -8,7 +8,7 @@ const courses = [
     tags: ["Article", "Machine Learning"],
     image:
       "https://images.unsplash.com/photo-1518770660439-4636190af475",
-    time: "15 min",
+    time: "15 mins",
   },
   {
     id: 2,
